@@ -1,0 +1,5 @@
+package HelloScala
+
+object OperationInScala {
+
+}
